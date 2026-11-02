@@ -1,0 +1,1 @@
+Educational project for learning Windows API and C. Do not use for malicious purposes.
